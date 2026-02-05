@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+kafka-python
+pyspark==3.4.1
+pandas
+numpy
+scikit-learn
+xgboost
+torch
+transformers
+requests
+python-dotenv
+beautifulsoup4
+vaderSentiment
+python-multipart

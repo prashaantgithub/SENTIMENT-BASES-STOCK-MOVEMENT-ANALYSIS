@@ -1,0 +1,29 @@
+CIA 3/
+├── backend/
+│   ├── main.py               (FastAPI Endpoints)
+│   └── api.py                (Internal API logic)
+├── data/
+│   ├── processed_data/       (PySpark/Polars output)
+│   ├── latest_predictions.json
+│   ├── raw_stocks_10000.csv
+│   └── stocks_data.db        (SQLite Database)
+├── eda/
+│   ├── plots/                (Generated EDA Images)
+│   └── data_analysis.py      (Visualization Script)
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/       (UI Components)
+│   │   ├── Dashboard.js      (Main Dashboard Logic)
+│   │   └── api.js            (Frontend API bridge)
+│   └── package.json
+├── ingestion/
+│   └── load_data.py          (Data Fetching & SQLite Load)
+├── ml_pipeline/
+│   └── model_training.py     (XGBoost Training Script)
+├── models/
+│   └── stock_model.json      (Trained ML Model)
+├── processing/
+│   └── pyspark_processor.py  (Big Data Engine)
+├── start_app.py              (Orchestrator Script)
+└── requirements.txt

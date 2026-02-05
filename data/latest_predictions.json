@@ -1,0 +1,82 @@
+[
+    {
+        "stock": "AXISBANK",
+        "current_price": 1321.0,
+        "prediction": "UP",
+        "confidence": 55.32,
+        "sentiment_score": 0.5919,
+        "timestamp": "2026-02-05T10:01:03.017223"
+    },
+    {
+        "stock": "BHARTIARTL",
+        "current_price": 2008.8,
+        "prediction": "DOWN",
+        "confidence": 67.52,
+        "sentiment_score": 0.1402,
+        "timestamp": "2026-02-05T10:01:03.021396"
+    },
+    {
+        "stock": "HCLTECH",
+        "current_price": 1623.4,
+        "prediction": "DOWN",
+        "confidence": 73.48,
+        "sentiment_score": 0.7404,
+        "timestamp": "2026-02-05T10:01:03.025184"
+    },
+    {
+        "stock": "HDFCBANK",
+        "current_price": 949.15,
+        "prediction": "DOWN",
+        "confidence": 62.65,
+        "sentiment_score": -0.6304,
+        "timestamp": "2026-02-05T10:01:03.029917"
+    },
+    {
+        "stock": "ICICIBANK",
+        "current_price": 1406.8,
+        "prediction": "DOWN",
+        "confidence": 70.08,
+        "sentiment_score": -0.2168,
+        "timestamp": "2026-02-05T10:01:03.034707"
+    },
+    {
+        "stock": "INFY",
+        "current_price": 1540.6,
+        "prediction": "DOWN",
+        "confidence": 52.47,
+        "sentiment_score": 0.2802,
+        "timestamp": "2026-02-05T10:01:03.038346"
+    },
+    {
+        "stock": "RELIANCE",
+        "current_price": 1443.9,
+        "prediction": "DOWN",
+        "confidence": 74.87,
+        "sentiment_score": -0.7636,
+        "timestamp": "2026-02-05T10:01:03.042161"
+    },
+    {
+        "stock": "SBIN",
+        "current_price": 1072.9,
+        "prediction": "UP",
+        "confidence": 63.74,
+        "sentiment_score": 0.0595,
+        "timestamp": "2026-02-05T10:01:03.046442"
+    },
+    {
+        "stock": "TCS",
+        "current_price": 3004.1,
+        "prediction": "DOWN",
+        "confidence": 85.61,
+        "sentiment_score": -0.2891,
+        "timestamp": "2026-02-05T10:01:03.051288"
+    },
+    {
+        "stock": "WIPRO",
+        "current_price": 234.25,
+        "prediction": "DOWN",
+        "confidence": 68.31,
+        "sentiment_score": -0.7422,
+        "timestamp": "2026-02-05T10:01:03.055247"
+    }
+]
